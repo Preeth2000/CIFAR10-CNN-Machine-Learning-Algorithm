@@ -1,5 +1,4 @@
-# 6006CEM_2021s1_8571021_PS
-
+# CIFAR10 CNN Machine Learning Algorithm
 Building an image recognition machine learning algorithm known as a Convolutional Neural Network (CNN). Created using Keras API with tensorflow on Jupyter Notebook on the CIFAR10 dataset by Krizhevsky, A.
 
 Link to CIFAR10 dataset : https://www.cs.toronto.edu/~kriz/cifar.html 
